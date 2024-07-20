@@ -14,7 +14,7 @@ const player_val = {
 
 const balls = []
 
-const sound = new Audio('./assets/sound.mp3')
+const sound = new Audio('./assets/coin.mp3')
 
 
 function createBushes(){
